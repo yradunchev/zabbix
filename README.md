@@ -1,5 +1,4 @@
-# zabbix
-Zabbix stuff
+# Zabbix stuff
 
 ## fscheck.sh   
   Check all ext* filesystems are in rw mode. Uses zabbix_sender to send result to Zabbix   
